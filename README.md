@@ -1,26 +1,26 @@
-## Sobre Mí
+🔸🔸🔸 Sobre Mí
 
-¡Hola! Soy Matías Mencucci, un apasionado desarrollador de software con experiencia en el diseño, codificación e implementación de sitios web receptivos. Mi enfoque se centra en tecnologías como HTML5, CSS3, JavaScript, PHP, Laravel y WordPress. También tengo habilidades en Java, C#, y SQL Server, entre otras.
+¡Hola! Soy Matías Mencucci, un apasionado desarrollador de software con experiencia en el diseño, codificación e implementación de sitios web responsive. Mi enfoque se centra en tecnologías como HTML5, CSS3, JavaScript, PHP, Laravel y WordPress. También tengo habilidades en Java, C#, y SQL Server, entre otras.
 
-### Habilidades
+🔸🔸🔸 Habilidades
 
 - HTML5 | CSS3 | JavaScript | PHP | Laravel | WordPress
 - Java | C++ | C#.NET | SQL Server | MySQL | Python
 - Machine Learning | Power BI | AWS Cloud | Data Mining
 
-### Experiencia
+🔸🔸🔸 Experiencia
 
-Graduado como Analista de Sistemas en 2015, he evolucionado desde el diseño de aplicaciones de escritorio hasta dedicarme completamente al desarrollo de sitios web receptivos para diversos clientes. Constantemente busco actualizarme con las últimas tecnologías a través de cursos y tutoriales que han sido fundamentales en mi aprendizaje.
+Graduado como Analista de Sistemas en 2015, he evolucionado desde el diseño de aplicaciones de escritorio hasta dedicarme completamente al desarrollo de sitios web responsive para diversos clientes. Constantemente busco actualizarme con las últimas tecnologías a través de cursos y tutoriales que han sido fundamentales en mi aprendizaje.
 
-### Educación
+🔸🔸🔸 Educación
 
 - **Analista de Sistemas**
   Instituto N°12, 2011-2015
 
-- **Licenciatura en Economía**
+- **Bachiller en Economía**
   Colegio La Anunciación, 2000-2003
 
-### Cursos Destacados
+🔸🔸🔸 Cursos Destacados
 
 - **Data Science**
   European Market College, 2024
@@ -31,19 +31,22 @@ Graduado como Analista de Sistemas en 2015, he evolucionado desde el diseño de 
 - **WordPress**
   Diweb Academy, 2020
 
-### Idiomas
+🔸🔸🔸  Idiomas
 
 - Inglés: B1
 - Español: Nativo
 - Portugués: B1
 
-### Datos de Interés
+🔸🔸🔸  Datos de Interés
 
 - Movilidad Geográfica
 - Licencia de Conducir
 - Pasaporte de la Unión Europea
 
-Sigo comprometido con el aprendizaje continuo y el desarrollo de soluciones innovadoras. ¡Conéctate conmigo para explorar nuevas oportunidades y colaboraciones emocionantes!
+🔸🔸🔸  Contactame
+-matiasmencu@gmail.com
+-(https://www.linkedin.com/in/matiasmencucci/)
 
+ 
 
 
